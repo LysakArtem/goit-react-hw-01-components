@@ -1,0 +1,13 @@
+.transactionHistory {
+  width: 750px;
+  margin: 100px auto;
+}
+
+th {
+  height: 40px;
+  background-color: turquoise;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}

@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+import './TransactionOperation.module.css';
 export default function TransactionOperation({ type, amount, currency }) {
   return (
     <tr>
